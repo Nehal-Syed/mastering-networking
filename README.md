@@ -506,13 +506,6 @@ If you discover additional networking concepts or improvements, feel free to sub
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for details.
-
----
 
 # 🙏 Acknowledgments
 
